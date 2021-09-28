@@ -26,9 +26,9 @@
 
 ### 1. Desktop and Mobile support
 
-*It has to work, **and** have great UX on both platforms.
-*It should support **Vue2** and **Vue3**
-*Avoid Any other External Dpendency 
+* It has to work, **and** have great UX on both platforms.
+* It should support **Vue2** and **Vue3**
+* Avoid Any other External Dpendency 
 
 ### 2. Lightweight and simple
 
