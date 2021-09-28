@@ -1,6 +1,6 @@
 
 > Thanks for contributing!
-##LightVue Contribution Guid
+## LightVue Contribution Guid
 
 ## Raising an Issue
 * Make sure the issue hasn't been raised yet
